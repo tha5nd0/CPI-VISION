@@ -8,3 +8,17 @@ CPI Vision utilizes advanced statistical algorithms and machine learning techniq
 - Provide input data such as vehicle sales and currency exchange rates.
 - Predict CPI values for the selected categories for future months.
 - Display previous CPI values for selected categories.
+
+## Prerequisites
+
+Before running the application, make sure you have the following installed:
+
+- Python 3.9 or higher
+- Required Python packages (install using `pip`): `streamlit`, `pdfplumber`, `numpy`, `tensorflow`, `scikit-learn`
+
+## Getting Started
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/cpi-prediction.git
