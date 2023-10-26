@@ -1,0 +1,196 @@
+MONTH,Category,Value,Percentage Change (From Prior Month),Year
+March,Headline_CPI,109,1,2023
+March,Food and non-alcoholic beverages,116.7,1,2023
+March,Alcoholic beverages and tobacco,109.2,2.2,2023
+March,Clothing and footwear,103.4,-0.1,2023
+March,Housing and utilities,104.5,0.4,2023
+March,Household contents and services,107.8,1.1,2023
+March,Health,109.1,0.6,2023
+March,Transport,112.9,2.1,2023
+March,Communication,99.7,-0.1,2023
+March,Recreation and culture,104.2,0.9,2023
+March,Education,110.4,5.7,2023
+March,Restaurants and hotels,109.6,0.7,2023
+March,Miscellaneous goods and services,107.9,0.2,2023
+February,Headline_CPI,107.9,0.7,2023
+February,Food and non-alcoholic beverages,115.6,1,2023
+February,Alcoholic beverages and tobacco,106.9,0.4,2023
+February,Clothing and footwear,103.5,0.6,2023
+February,Housing and utilities,104.1,0,2023
+February,Household contents and services,106.6,0,2023
+February,Health,108.5,3.4,2023
+February,Transport,110.6,0.6,2023
+February,Communication,99.8,0.4,2023
+February,Recreation and culture,103.3,-0.1,2023
+February,Education,104.4,0,2023
+February,Restaurants and hotels,108.8,1.9,2023
+February,Miscellaneous goods and services,107.7,2.2,2023
+January,Headline_CPI,107.1,-0.1,2023
+January,Food and non-alcoholic beverages,114.4,1.8,2023
+January,Alcoholic beverages and tobacco,106.5,0.3,2023
+January,Clothing and footwear,102.9,0.1,2023
+January,Housing and utilities,104.1,0,2023
+January,Household contents and services,106.6,0.5,2023
+January,Health,104.9,0.1,2023
+January,Transport,109.9,-3.5,2023
+January,Communication,99.4,0.3,2023
+January,Recreation and culture,103.4,0,2023
+January,Education,104.4,0,2023
+January,Restaurants and hotels,106.8,-0.9,2023
+January,Miscellaneous goods and services,105.4,0.5,2023
+December,Headline_CPI,107.2,0.4,2022
+December,Food and non-alcoholic beverages,112.4,0.4,2022
+December,Alcoholic beverages and tobacco,106.2,-0.2,2022
+December,Clothing and footwear,102.8,0.2,2022
+December,Housing and utilities,104.1,0.3,2022
+December,Household contents and services,106.1,0.9,2022
+December,Health,104.8,0.1,2022
+December,Transport,113.9,0.7,2022
+December,Communication,99.1,-0.1,2022
+December,Recreation and culture,103.4,0.6,2022
+December,Education,104.4,0,2022
+December,Restaurants and hotels,107.8,-0.2,2022
+December,Miscellaneous goods and services,104.9,0.2,2022
+November,Headline_CPI,106.8,0.3,2022
+November,Food and non-alcoholic beverages,111.9,0.5,2022
+November,Alcoholic beverages and tobacco,106.4,0.3,2022
+November,Clothing and footwear,102.6,0,2022
+November,Housing and utilities,103.8,0,2022
+November,Household contents and services,105.2,0.2,2022
+November,Health,104.7,0.2,2022
+November,Transport,113.1,1.3,2022
+November,Communication,99.2,-0.6,2022
+November,Recreation and culture,102.8,0.1,2022
+November,Education,104.4,0,2022
+November,Restaurants and hotels,108,0.6,2022
+November,Miscellaneous goods and services,104.7,0,2022
+October,Headline_CPI,106.5,0.4,2022
+October,Food and non-alcoholic beverages,111.3,0.9,2022
+October,Alcoholic beverages and tobacco,106.1,0.5,2022
+October,Clothing and footwear,102.6,0.1,2022
+October,Housing and utilities,103.8,0.1,2022
+October,Household contents and services,105,0.5,2022
+October,Health,104.5,0.5,2022
+October,Transport,111.7,-0.3,2022
+October,Communication,99.8,-0.1,2022
+October,Recreation and culture,102.7,0.2,2022
+October,Education,104.4,0,2022
+October,Restaurants and hotels,107.4,1.1,2022
+October,Miscellaneous goods and services,104.7,0.9,2022
+September,Headline_CPI,106.1,0.1,2022
+September,Food and non-alcoholic beverages,110.3,0.5,2022
+September,Alcoholic beverages and tobacco,105.6,0.9,2022
+September,Clothing and footwear,102.5,0.4,2022
+September,Housing and utilities,103.7,0.5,2022
+September,Household contents and services,104.5,0.8,2022
+September,Health,104,-0.2,2022
+September,Transport,112,-2.2,2022
+September,Communication,99.9,-0.2,2022
+September,Recreation and culture,102.5,0.1,2022
+September,Education,104.4,0,2022
+September,Restaurants and hotels,106.2,1.8,2022
+September,Miscellaneous goods and services,103.8,0.3,2022
+August,Headline_CPI,106,0.2,2022
+August,Food and non-alcoholic beverages,109.7,1.8,2022
+August,Alcoholic beverages and tobacco,104.7,0.3,2022
+August,Clothing and footwear,102.1,0.5,2022
+August,Housing and utilities,103.2,0.1,2022
+August,Household contents and services,103.7,0.4,2022
+August,Health,104.2,0.1,2022
+August,Transport,114.5,-1,2022
+August,Communication,100.1,0.2,2022
+August,Recreation and culture,102.4,0.1,2022
+August,Education,104.4,0,2022
+August,Restaurants and hotels,104.3,-0.3,2022
+August,Miscellaneous goods and services,103.5,0.8,2022
+July,Headline_CPI,105.8,1.5,2022
+July,Food and non-alcoholic beverages,107.8,1.1,2022
+July,Alcoholic beverages and tobacco,104.4,-0.1,2022
+July,Clothing and footwear,101.6,0.3,2022
+July,Housing and utilities,103.1,1.9,2022
+July,Household contents and services,103.3,0.3,2022
+July,Health,104.1,-0.5,2022
+July,Transport,115.6,4.8,2022
+July,Communication,99.4,-0.4,2022
+July,Recreation and culture,102.3,1.1,2022
+July,Education,104.4,0,2022
+July,Restaurants and hotels,104.6,0.4,2022
+July,Miscellaneous goods and services,103.4,0.4,2022
+June,Headline_CPI,104.2,1.1,2022
+June,Food and non-alcoholic beverages,106.6,1.2,2022
+June,Alcoholic beverages and tobacco,104.5,0.1,2022
+June,Clothing and footwear,101.3,0.4,2022
+June,Housing and utilities,101.2,0.6,2022
+June,Household contents and services,103,1.2,2022
+June,Health,104.6,0.3,2022
+June,Transport,110.3,4.2,2022
+June,Communication,100.3,0.4,2022
+June,Recreation and culture,101.2,0.2,2022
+June,Education,104.4,0,2022
+June,Restaurants and hotels,104.2,0.4,2022
+June,Miscellaneous goods and services,103,0.1,2022
+May,Headline_CPI,103.1,0.7,2022
+May,Food and non-alcoholic beverages,105.3,2.1,2022
+May,Alcoholic beverages and tobacco,104.4,0.8,2022
+May,Clothing and footwear,100.9,0.2,2022
+May,Housing and utilities,100.6,0.1,2022
+May,Household contents and services,101.8,0.7,2022
+May,Health,104.3,0.3,2022
+May,Transport,105.9,0.8,2022
+May,Communication,99.9,0.3,2022
+May,Recreation and culture,101,0.3,2022
+May,Education,104.4,0,2022
+May,Restaurants and hotels,103.8,0.5,2022
+May,Miscellaneous goods and services,102.9,0.1,2022
+April,Headline_CPI,102.4,0.6,2022
+April,Food and non-alcoholic beverages,103.1,0.7,2022
+April,Alcoholic beverages and tobacco,103.6,0.8,2022
+April,Clothing and footwear,100.7,0.2,2022
+April,Housing and utilities,100.5,0,2022
+April,Household contents and services,101.1,0.3,2022
+April,Health,104,0.3,2022
+April,Transport,105.1,1.4,2022
+April,Communication,99.6,-0.1,2022
+April,Recreation and culture,100.7,0.3,2022
+April,Education,104.4,0,2022
+April,Restaurants and hotels,103.3,0.3,2022
+April,Miscellaneous goods and services,102.8,0.9,2022
+March,Headline_CPI,101.8,1,2022
+March,Food and non-alcoholic beverages,102.4,0.6,2022
+March,Alcoholic beverages and tobacco,102.8,2.2,2022
+March,Clothing and footwear,100.5,0.2,2022
+March,Housing and utilities,100.5,0.4,2022
+March,Household contents and services,100.8,0.4,2022
+March,Health,103.7,0.5,2022
+March,Transport,103.7,3.1,2022
+March,Communication,99.7,0,2022
+March,Recreation and culture,100.4,0.1,2022
+March,Education,104.4,4.4,2022
+March,Restaurants and hotels,103,1.1,2022
+March,Miscellaneous goods and services,101.9,0.4,2022
+February,Headline_CPI,100.8,0.6,2022
+February,Food and non-alcoholic beverages,101.8,0.9,2022
+February,Alcoholic beverages and tobacco,100.6,0.6,2022
+February,Clothing and footwear,100.3,0.1,2022
+February,Housing and utilities,100.1,0.1,2022
+February,Household contents and services,100.4,0,2022
+February,Health,103.2,3.1,2022
+February,Transport,100.6,1.7,2022
+February,Communication,99.7,-0.1,2022
+February,Recreation and culture,100.3,0.1,2022
+February,Education,100,0,2022
+February,Restaurants and hotels,101.9,0.7,2022
+February,Miscellaneous goods and services,101.5,0.9,2022
+January,Headline_CPI,100.2,0.2,2022
+January,Food and non-alcoholic beverages,100.9,0.9,2022
+January,Alcoholic beverages and tobacco,100,0,2022
+January,Clothing and footwear,100.2,0.2,2022
+January,Housing and utilities,100,0,2022
+January,Household contents and services,100.4,0.4,2022
+January,Health,100.1,0.1,2022
+January,Transport,98.9,-1.1,2022
+January,Communication,99.8,-0.2,2022
+January,Recreation and culture,100.2,0.2,2022
+January,Education,100,0,2022
+January,Restaurants and hotels,101.2,1.2,2022
+January,Miscellaneous goods and services,100.6,0.6,2022
